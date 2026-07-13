@@ -5,8 +5,8 @@ An intermediate-level inventory management system: a **PostgreSQL** database
 application**. Built as part of an AICTE Summer Internship.
 
 ## Made By:
-**Candidate Name:** Aditya Ranjan
-**Intern ID:** CITS83
+**Candidate Name:**Yuvaraj Singh
+**Intern ID:** CITS2050
 **Selected For:** Full Stack Web Development
 **Organization:** Codtech IT Solutions Private Limited
 **Duration:** 8 Weeks
